@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "udruga",
+  "builds": [
+    {
+      "src": "package.json",
+      "use": "@now/next"
+    }
+  ]
+}
